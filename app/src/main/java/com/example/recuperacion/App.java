@@ -37,6 +37,7 @@ public class App {
     }else{
             System.out.println("El estudiante reprueba directo, el promedio es "+promedio);
              System.out.println("gracias por usar el programa");
+             // fin del programa 
         }
 
 
