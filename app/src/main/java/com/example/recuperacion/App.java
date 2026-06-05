@@ -19,7 +19,11 @@ public class App {
         double n3 = sc.nextDouble();
         double suma = n1+n2+n3;
         double promedio= suma/3;
+         if (suma>=21 && suma<=30){// si aprueba directo
+            System.out.println("El estudiante aprobo directo, su nota es :" + promedio);
+        
     }
         
     }
+}
 
