@@ -12,5 +12,7 @@ public class App {
         System.out.println(new App().getGreeting());
         // recuperacion de Chen 
         System.out.println("bienvenidos a mi recuperacion");
+        System.out.println("les presentare las tablas de multiplicar");
+        //tablas de multiplicar
     }
 }
