@@ -10,5 +10,7 @@ public class App {
 
     public static void main(String[] args) {
         System.out.println(new App().getGreeting());
+        // recuperacion de Chen 
+        System.out.println("bienvenidos a mi recuperacion");
     }
 }
