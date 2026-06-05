@@ -34,6 +34,7 @@ public class App {
             if (total_examen >=7){
                 System.out.println("El estudiante aprueba con el examen final su promedio es  "+total_examen);
             }else{
+                // reprueba 
                 System.out.println("El estudiante reprobo con examen final;su promdio es: "+total_examen);
                 
             }
