@@ -18,6 +18,7 @@ public class App {
         System.out.println("ingrese la tercera nota: ");
         double n3 = sc.nextDouble();
         double suma = n1+n2+n3;
+        double promedio= suma/3;
     }
         
     }
