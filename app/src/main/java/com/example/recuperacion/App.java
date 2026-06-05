@@ -28,6 +28,7 @@ public class App {
     } else if (suma >=21 && suma >= 15){//si me pide supletorio 
             System.out.println("el estudiante debe dar un examen supletorio");
             double examen = sc.nextDouble();
+            // calculamos el porcentaje del promedio
             double porcentaje_promedio = promedio*0.6;
             double porcentaje_examen = examen*0.4;
             double total_examen= porcentaje_promedio+ porcentaje_examen;
