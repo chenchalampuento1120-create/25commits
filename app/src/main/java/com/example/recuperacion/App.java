@@ -22,8 +22,10 @@ public class App {
          if (suma>=21 && suma<=30){// si aprueba directo
             System.out.println("El estudiante aprobo directo, su nota es :" + promedio);
         
-    }
+    } else if (suma >=21 && suma >= 15){//si me pide supletorio 
+            System.out.println("el estudiante debe dar un examen supletorio");
         
     }
+}
 }
 
