@@ -34,10 +34,13 @@ public class App {
                 System.out.println("El estudiante reprobo con examen final;su promdio es: "+total_examen);
                 
             }
+    }else{
+            System.out.println("El estudiante reprueba directo, el promedio es "+promedio);
+        }
 
 
         
     }
 }
-}
+
 
