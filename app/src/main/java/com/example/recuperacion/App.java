@@ -17,6 +17,7 @@ public class App {
         double n2 =sc.nextDouble();
         System.out.println("ingrese la tercera nota: ");
         double n3 = sc.nextDouble();
+        double suma = n1+n2+n3;
     }
         
     }
