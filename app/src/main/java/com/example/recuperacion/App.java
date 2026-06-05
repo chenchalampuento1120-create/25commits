@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class App {
      public static void main(String[]args){
-    
+    // inge muchas gracias por la recuperacion :D
         Scanner sc = new Scanner (System.in);
         // calculamos la primera nota
         System.out.println("Sistema para calcular notas");
