@@ -12,6 +12,7 @@ public class App {
         System.out.println("Sistema para calcular notas");
         System.out.println("-----------------------------");
         System.out.println("Ingrese su nota referente al primer parcial: ");
+        double n1 =sc.nextDouble();
     }
         
     }
