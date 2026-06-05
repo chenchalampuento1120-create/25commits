@@ -17,6 +17,7 @@ public class App {
         // calculamos la segunda nota 
         System.out.println("ingrese la nota del segundo parcial: ");
         double n2 =sc.nextDouble();
+        // calculamos la tercera nota
         System.out.println("ingrese la tercera nota: ");
         double n3 = sc.nextDouble();
         double suma = n1+n2+n3;
