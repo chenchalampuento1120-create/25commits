@@ -15,6 +15,8 @@ public class App {
         double n1 =sc.nextDouble();
         System.out.println("ingrese la nota del segundo parcial: ");
         double n2 =sc.nextDouble();
+        System.out.println("ingrese la tercera nota: ");
+        double n3 = sc.nextDouble();
     }
         
     }
