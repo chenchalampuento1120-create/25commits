@@ -26,6 +26,7 @@ public class App {
             System.out.println("el estudiante debe dar un examen supletorio");
             double examen = sc.nextDouble();
             double porcentaje_promedio = promedio*0.6;
+            double porcentaje_examen = examen*0.4;
 
 
         
