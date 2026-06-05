@@ -30,6 +30,9 @@ public class App {
             double total_examen= porcentaje_promedio+ porcentaje_examen;
             if (total_examen >=7){
                 System.out.println("El estudiante aprueba con el examen final su promedio es  "+total_examen);
+            }else{
+                System.out.println("El estudiante reprobo con examen final;su promdio es: "+total_examen);
+                
             }
 
 
