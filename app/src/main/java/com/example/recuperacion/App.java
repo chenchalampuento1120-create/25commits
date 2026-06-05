@@ -27,6 +27,7 @@ public class App {
             double examen = sc.nextDouble();
             double porcentaje_promedio = promedio*0.6;
             double porcentaje_examen = examen*0.4;
+            double total_examen= porcentaje_promedio+ porcentaje_examen;
 
 
         
