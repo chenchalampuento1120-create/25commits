@@ -9,6 +9,7 @@ public class App {
      public static void main(String[]args){
     
         Scanner sc = new Scanner (System.in);
+        // calculamos la primera nota
         System.out.println("Sistema para calcular notas");
         System.out.println("-----------------------------");
         System.out.println("Ingrese su nota referente al primer parcial: ");
