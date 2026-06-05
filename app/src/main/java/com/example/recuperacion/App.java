@@ -3,16 +3,13 @@
  */
 package com.example.recuperacion;
 
+import java.util.Scanner;
+
 public class App {
-    public String getGreeting() {
-        return "Hello World!";
+     public static void main(String[]args){
+    
+        Scanner sc = new Scanner (System.in);
+    }
+        
     }
 
-    public static void main(String[] args) {
-        System.out.println(new App().getGreeting());
-        // recuperacion de Chen 
-        System.out.println("bienvenidos a mi recuperacion");
-        System.out.println("les presentare las tablas de multiplicar");
-        //tablas de multiplicar
-    }
-}
