@@ -32,6 +32,7 @@ public class App {
             double porcentaje_promedio = promedio*0.6;
             // porcentaje del examen 
             double porcentaje_examen = examen*0.4;
+            // total del examen
             double total_examen= porcentaje_promedio+ porcentaje_examen;
             if (total_examen >=7){
                 //aprueba 
