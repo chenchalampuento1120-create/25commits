@@ -10,6 +10,7 @@ public class App {
     
         Scanner sc = new Scanner (System.in);
         System.out.println("Sistema para calcular notas");
+        System.out.println("-----------------------------");
     }
         
     }
